@@ -1,0 +1,4 @@
+maigret==0.6.5
+python-telegram-bot==22.8
+quart==0.20.0
+uvicorn==0.35.0
