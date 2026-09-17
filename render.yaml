@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: maigret-tg-bot
-    runtime: python
-    buildCommand: sh build.sh
-    startCommand: python bot.py
-    plan: free
-    healthCheckPath: /health
